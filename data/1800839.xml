@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Midwest Partial Differential Equations Seminar</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>39000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Holmer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding for US participation in four installments of the conference series "Midwest Partial Differential Equations Seminar" that will be held at University of Wisconsin, Madison in Spring 2018, University of Indiana, Bloomington in Fall 2018, Purdue University, West Lafayette in Spring 2019, and another midwestern university, to be determined, in Fall 2019.&lt;br/&gt; &lt;br/&gt;The conference focuses on recent developments in Analysis, especially in the field of partial differential equations.   A number of distinguished mathematicians have agreed to attend and speak at this conference series.  This award gives early career researchers, members of underrepresented groups, researchers not funded by NSF and the like an opportunity to attend and participate in this conference.   The organizing committee will strive to make this funding opportunity known to target groups through a number of different activities.   More information will be made available at:  http://homepages.math.uic.edu/~jlewis/midwpde/</AbstractNarration>
+<MinAmdLetterDate>12/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800839</AwardID>
+<Investigator>
+<FirstName>Jerry</FirstName>
+<LastName>Bona</LastName>
+<EmailAddress>bona@math.uic.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Irina</FirstName>
+<LastName>Nenciu</LastName>
+<EmailAddress>nenciu@math.uic.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christof</FirstName>
+<LastName>Sparber</LastName>
+<EmailAddress>sparber@uic.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mimi</FirstName>
+<LastName>Dai</LastName>
+<EmailAddress>mdai@uic.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S. Marshfield Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

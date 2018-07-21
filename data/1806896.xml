@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 Redbud Geometry/Topology Conference</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>27349</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Ivey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the "2018 Spring Redbud Topology Conference", to be held on April 28-29, 2018 on the campus of Oklahoma State University in Stillwater, Oklahoma.  The confernece will be preceded by a one-day graduate workshop to be held on April 27.  The conference will bring together experts in the fields of 3-manifold and 4-manifold topology -- i.e., features&lt;br/&gt;(like 'holes') that remain unchanged when these spaces are bent or stretched -- to discuss natural ways of breaking these objects into more well understood pieces. The list of committed speakers includes researchers based in Australia, Asia and the US. This award will provide funding for their travel as well as US based graduate students and other early career mathematicians wishing to attend the meetings.&lt;br/&gt;&lt;br/&gt;Two main areas of research will be presented at the Spring 2018 conference, namely triangulations of 3- and 4-manifolds and trisections, a recently introduced combinatorial decomposition of 4-manifolds. In the triangulations thread, the focus will be on current algorithmic questions related to 3-manifold topology.  We will also focus on recent developments in trisections, including basic constructions of trisections arising from gluing, invariants which can be calculated from trisections, and applications of trisections in mathematical physics. By bringing these groups of experts together, participants will explore and extend very recently discovered connections between 4-dimensional trisections and triangulations. Ten speakers will be featured during the conference as well as introductory talks during the graduate workshop. The conference webpage can be found at:&lt;br/&gt;&lt;br/&gt;http://math.okstate.edu/conferences/redbud/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806896</AwardID>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Segerman</LastName>
+<EmailAddress>segerman@math.okstate.edu</EmailAddress>
+<StartDate>02/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neil</FirstName>
+<LastName>Hoffman</LastName>
+<EmailAddress>neil.r.hoffman@gmail.com</EmailAddress>
+<StartDate>02/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oklahoma State University</Name>
+<CityName>Stillwater</CityName>
+<ZipCode>740781011</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress>101 WHITEHURST HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

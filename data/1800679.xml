@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Semi-annual Workshop in Dynamical Systems and Related Topics at Penn State</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>39999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yunping Jiang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Katok DMS-1800679 &lt;br/&gt;&lt;br/&gt;This award provides funding for participants in ``Semi-annual Workshop in Dynamical Systems and Related Topics at Penn State'' for the three years 2018, 2019, and 2020. The workshop is devoted to recent developments in dynamical systems and many applications to other disciplines. The workshop has been funded by NSF for the past ten years. The workshop always attracts a considerable number of participants from other regions of the United States and other countries. Approximately 20 junior participants will be supported each year.&lt;br/&gt;&lt;br/&gt;More information will be made available at: https://math.psu.edu/dynsys/workshop&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/30/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800679</AwardID>
+<Investigator>
+<FirstName>Svetlana</FirstName>
+<LastName>Katok</LastName>
+<EmailAddress>katok_s@math.psu.edu</EmailAddress>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anatole</FirstName>
+<LastName>Katok</LastName>
+<EmailAddress>katok_a@math.psu.edu</EmailAddress>
+<StartDate>11/30/2017</StartDate>
+<EndDate>05/24/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Svetlana</FirstName>
+<LastName>Katok</LastName>
+<EmailAddress>katok_s@math.psu.edu</EmailAddress>
+<StartDate>11/30/2017</StartDate>
+<EndDate>05/24/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Federico</FirstName>
+<LastName>Rodriguez Hertz</LastName>
+<EmailAddress>hertz@math.psu.edu</EmailAddress>
+<StartDate>11/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yakov</FirstName>
+<LastName>Pesin</LastName>
+<EmailAddress>pesin@math.psu.edu</EmailAddress>
+<StartDate>11/30/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

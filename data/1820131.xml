@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EEO Case Processing</AwardTitle>
+<AwardEffectiveDate>12/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>70000</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>01070001</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office Of Diversity and Inclusion</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zita R. Barnett</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>12/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820131</AwardID>
+<Investigator>
+<FirstName>Rebecca</FirstName>
+<LastName>Pagan</LastName>
+<EmailAddress>rebecca.s.pagan@usps.gov</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>UNITED STATES POSTAL SERVICE</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>202605130</ZipCode>
+<PhoneNumber/>
+<StreetAddress>475 LENFANT PLAZA SW RM 8122</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>0670</Code>
+<Text/>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Hadronic Parity Nonconservation</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allena Opper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will provide support for participants to attend the Workshop on Hadronic Parity Non-Conservation, which will be hosted by the Kavili Institute for Theoretical Physics and is being organized through the NSF Theory Hub "Network for Neutrinos, Nuclear Astrophysics, and Symmetries".  The purpose of the workshop is to convene experts in the field to plan a path forward that can test a new model based on a large number of degrees of freedom and potentially lead to a deeper understanding of hadronic parity non-conservation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828046</AwardID>
+<Investigator>
+<FirstName>Wick</FirstName>
+<LastName>Haxton</LastName>
+<EmailAddress>haxton@berkeley.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1232</Code>
+<Text>Nuclear &amp; Hadron Quantum Chrom</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

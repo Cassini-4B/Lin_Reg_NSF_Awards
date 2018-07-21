@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Algorithmic Number Theory Symposium 2018</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew D. Pollington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the 2018 Algorithmic Number Theory Symposium (ANTS XIII) held in Madison, Wisconsin on July 16 - 20, 2018.  The meeting is part of a biannual research conference series that specializes in problems related to computations on numbers and algorithms that answer questions about numbers.  Two examples of such problems are (1) given a number, determine if it is prime or composite and (2) given a composite number, determine its prime factorization.  Techniques for solving such problems are the foundation of internet security and digital commerce.  Approximately 130 mathematicians participate in each meeting. The research presented will be compiled into a proceedings volume of peer-reviewed papers.  For more information, visit  http://www.math.grinnell.edu/~paulhusj/ants2018/.&lt;br/&gt;&lt;br/&gt;The Algorithmic Number Theory Symposium is a leading scientific venue for dissemination and catalysis of novel research in the fields of algorithmic and computational number theory.  The meeting is devoted to algorithmic aspects of number theory, including elementary number theory, algebraic number theory, analytic number theory, geometry of numbers, arithmetic algebraic geometry, finite fields, and cryptography. Speakers submit papers that are peer-reviewed, selected through a competitive process, and subsequently compiled into a proceedings volume.  Funding is available for graduate students and other early-career mathematicians.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802687</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Paulhus</LastName>
+<EmailAddress>paulhusj@grinnell.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Shallue</LastName>
+<EmailAddress>ashallue@iwu.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Holden</LastName>
+<EmailAddress>holden@rose-hulman.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Bach</LastName>
+<EmailAddress>bach@cs.wisc.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois Wesleyan University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>617022900</ZipCode>
+<PhoneNumber>3095563058</PhoneNumber>
+<StreetAddress>1312 PARK STREET</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

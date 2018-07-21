@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference on the Intersections of Particle and Nuclear Physics</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allena Opper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Conference on the Intersection of Particle and Nuclear Physics (CIPANP) is a triennial series that focuses on topics of interest to elementary particle physicists, nuclear physicists and particle/nuclear astrophysicists. In addition to disseminating the latest results, CIPANP facilitates both formal and informal exchanges of information and the building of connections between physicists in these fields. The 13th CIPANP will be held May 28 through June 3 in Indian Wells, California and will bring together physicists from around the word. This award supports the participation of early career physicists and will be used to encourage a diverse group of participants. &lt;br/&gt;&lt;br/&gt;CIPANP 2018 is organized with public lectures, plenary, parallel and poster sessions. Topic areas include Physics at High Energies; Precision Physics at High Intensities; Cosmic Physics and Dark Energy/Inflation and Strong-Field Gravity; Neutrino Masses and Neutrino Mixing; Tests of Symmetries and the Electroweak Interaction; Dark Matter; Particle and Nuclear Astrophysics; Heavy Flavors and the CKM Matrix; QCD, Hadron Spectroscopy and Exotics; Parton and Gluon Distributions in Nucleon and Nuclei; Nuclear Forces and Structure, NN Correlations, and Medium Effects; and Quark Matter and High Energy Heavy Ion Collisions.  Proceedings will be published and presentations will be posted on the conference website.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811960</AwardID>
+<Investigator>
+<FirstName>Wick</FirstName>
+<LastName>Haxton</LastName>
+<EmailAddress>haxton@berkeley.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947045940</ZipCode>
+<PhoneNumber>5106428109</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1232</Code>
+<Text>Nuclear &amp; Hadron Quantum Chrom</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1286</Code>
+<Text>Elem. Particle Physics/Theory</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7235</Code>
+<Text>Particle Astrophysics/Undergro</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Simple Stochastic Models of Tropical Atmospheric Waves</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>101472</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>06/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815061</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Hottovy</LastName>
+<EmailAddress>hottovy@usna.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>United States Naval Academy</Name>
+<CityName>Annapolis</CityName>
+<ZipCode>214025030</ZipCode>
+<PhoneNumber>4102932504</PhoneNumber>
+<StreetAddress>589 McNair Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>
